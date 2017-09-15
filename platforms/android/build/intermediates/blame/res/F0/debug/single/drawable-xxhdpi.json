@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/logo_signup.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/logo_signup.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/delete.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/delete.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/apple.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/apple.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/unchecked_white.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/unchecked_white.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/menu.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/menu.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/icon.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/checked_white.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/checked_white.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/unchecked.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/unchecked.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/logo_login.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/logo_login.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/pear.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/pear.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/banana.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/banana.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/checked.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/checked.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/selected.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/selected.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/add.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/add.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/nonselected.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/nonselected.png"
+    },
+    {
+        "merged": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/recent.png",
+        "source": "/mnt/sda7/projects/nativescript/Groceries/platforms/android/src/main/res/drawable-xxhdpi/recent.png"
+    }
+]
